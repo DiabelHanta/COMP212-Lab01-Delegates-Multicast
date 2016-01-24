@@ -1,0 +1,2 @@
+c:\users\faim\documents\visual studio 2015\Projects\COMP212-Lab01\COMP212-Lab01\bin\Debug\COMP212-Lab01.exe.config
+c:\users\faim\documents\visual studio 2015\Projects\COMP212-Lab01\COMP212-Lab01\obj\Debug\COMP212-Lab01.csprojResolveAssemblyReference.cache
